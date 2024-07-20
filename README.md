@@ -42,18 +42,18 @@ http://127.0.0.1:8000
 
 ## Screenshoot
 
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s7.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s8.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s9.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s10.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s11.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s12.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s1.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s2.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s3.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s4.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s5.png)
-![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/tree/main/public/assets/img/s6.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s7.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s8.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s9.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s10.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s11.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s12.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s1.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s2.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s3.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s4.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s5.png)
+![logo](https://github.com/Honestdev125/login-register-crud-laravel-10/blob/main/public/assets/img/s6.png)
 
 
 ## License
